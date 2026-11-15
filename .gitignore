@@ -1,0 +1,36 @@
+# =========================
+# KiCad
+# =========================
+*.kicad_pro~
+*.kicad_sch~
+*.kicad_pcb~
+*-backups/
+*-bak/
+*.bak
+fp-lib-table.bak
+sym-lib-table.bak
+*.net
+*.cmp
+*.lst
+*.pro~
+_autosave*
+
+# =========================
+# Proteus (ISIS / ARES)
+# =========================
+*.pdsbak
+*.DBK
+*.dbk
+*.DSN~
+*.pdslog
+*.TRA
+*.tra
+*.LOG
+*.log
+
+# =========================
+# Sistema operativo y otros
+# =========================
+.DS_Store
+Thumbs.db
+Desktop.ini
