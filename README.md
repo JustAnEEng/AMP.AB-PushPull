@@ -1,0 +1,26 @@
+# Amplificador de Potencia de Audio Clase AB
+
+Proyecto de diseño, simulación, implementación de circuito impreso (PCB) y caracterización experimental de un amplificador de audio de potencia con topología Clase AB push-pull, desarrollado en el marco de la cátedra **Electrónica I** de la **Universidad Nacional del Nordeste (UNNE)**.
+
+## Integrantes (Grupo 22)
+
+* **Guerrero, Agustín Exequiel**
+* **Rolón, Juan Daniel**
+
+## Descripción General y Especificaciones Técnicas
+
+El sistema consiste en un amplificador integrado de dos etapas: una etapa preamplificadora basada en un amplificador operacional **NE5532** (en configuracion no inversora) seguida de una etapa de salida complementaria en configuración **Clase AB push-pull** con red de compensación de estabilidad de Zobel y alimentación simétrica.
+
+* **Potencia de salida nominal:** 2.5 W
+* **Ganancia de potencia total:** 54 dB
+* **Ancho de banda ($-3\text{ dB}$):** 25 kHz
+* **Alimentación:** Fuente partida simétrica (+Vcc = 17V; -Vcc= 17V)
+* **Tecnología de montaje:** Componentes de inserción sobre placa de circuito impreso de capa simple.
+
+## Estructura del Repositorio
+
+```text
+├── kicad/               # Archivos de proyecto, esquemáticos y diseño de PCB (.kicad_pro, .kicad_sch, .kicad_pcb)
+├── simulaciones/        # Modelos de simulación circuital y análisis en frecuencia/transitorio (.asc, .pdsprj)
+├── docs/                # Informe técnico, memorias de cálculo y hojas de datos de componentes
+└── .gitignore           # Exclusión de archivos temporales y respaldos automáticos de software
