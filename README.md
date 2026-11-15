@@ -1,6 +1,6 @@
 # Amplificador de Potencia de Audio Clase AB
 
-Proyecto de diseño, simulación, implementación de circuito impreso (PCB) y caracterización experimental de un amplificador de audio de potencia con topología Clase AB push-pull, desarrollado en el marco de la cátedra **Electrónica I** de la **Universidad Nacional del Nordeste (UNNE)**.
+Proyecto de diseño, simulación, implementación de circuito impreso (PCB) y caracterización experimental de un amplificador de audio de potencia con topología Clase AB push-pull y su fuente de alimentacion, desarrollado en el marco de la cátedra **Electrónica I** de la **Universidad Nacional del Nordeste (UNNE)**.
 
 ## Integrantes (Grupo 22)
 
@@ -9,11 +9,11 @@ Proyecto de diseño, simulación, implementación de circuito impreso (PCB) y ca
 
 ## Descripción General y Especificaciones Técnicas
 
-El sistema consiste en un amplificador integrado de dos etapas: una etapa preamplificadora basada en un amplificador operacional **NE5532** (en configuracion no inversora) seguida de una etapa de salida complementaria en configuración **Clase AB push-pull** con red de compensación de estabilidad de Zobel y alimentación simétrica.
+El sistema consiste en un amplificador integrado de dos etapas: una etapa preamplificadora basada en un amplificador operacional **NE5532** (en configuracion no inversora) seguida de una etapa de salida complementaria en configuración **Clase AB push-pull** con red de compensación de estabilidad de Zobel. El sistema de alimentacion del amplificador esta dado por una fuente de punto medio basada en el circuito doblador de tension de onda completa y regulada por diodos zener, se hace uso de transistores de paso.
 
 * **Potencia de salida nominal:** 2.5 W
 * **Ganancia de potencia total:** 54 dB
-* **Ancho de banda ($-3\text{ dB}$):** 25 kHz
+* **Ancho de banda ($-3\text{ dB}$):** 30 kHz
 * **Alimentación:** Fuente partida simétrica (+Vcc = 17V; -Vcc= 17V)
 * **Tecnología de montaje:** Componentes de inserción sobre placa de circuito impreso de capa simple.
 
