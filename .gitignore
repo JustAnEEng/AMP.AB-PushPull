@@ -9,6 +9,7 @@
 *.bak
 fp-lib-table.bak
 sym-lib-table.bak
+fp-info-cache
 *.net
 *.cmp
 *.lst
@@ -16,8 +17,11 @@ sym-lib-table.bak
 _autosave*
 
 # =========================
-# Proteus (ISIS / ARES)
+# Proteus
 # =========================
+*Backups*/
+*backups*/
+*.workspace
 *.pdsbak
 *.DBK
 *.dbk
@@ -27,6 +31,12 @@ _autosave*
 *.tra
 *.LOG
 *.log
+
+# =========================
+# LibreOffice / Documentos temporales
+# =========================
+.~lock.*
+*.lock*#
 
 # =========================
 # Sistema operativo y otros
