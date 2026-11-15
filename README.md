@@ -13,7 +13,7 @@ El sistema consiste en un amplificador integrado de dos etapas: una etapa preamp
 
 * **Potencia de salida nominal:** 2.5 W
 * **Ganancia de potencia total:** 54 dB
-* **Ancho de banda ($-3\text{ dB}$):** 30 kHz
+* **Ancho de banda (NOMINAL):** 20 kHz
 * **Alimentación:** Fuente partida simétrica (+Vcc = 17V; -Vcc= 17V)
 * **Tecnología de montaje:** Componentes de inserción sobre placa de circuito impreso de capa simple.
 
