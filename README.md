@@ -12,7 +12,7 @@ Proyecto de diseño, simulación, implementación de circuito impreso (PCB) y ca
 El sistema consiste en un amplificador integrado de dos etapas: una etapa preamplificadora basada en un amplificador operacional **NE5532** (en configuracion no inversora) seguida de una etapa de salida complementaria en configuración **Clase AB push-pull** con red de compensación de estabilidad de Zobel. El sistema de alimentacion del amplificador esta dado por una fuente de punto medio basada en el circuito doblador de tension de onda completa y regulada por diodos zener, se hace uso de transistores de paso.
 
 * **Potencia de salida nominal:** 2.5 W
-* **Ganancia de potencia total:** 54 dB
+* **Ganancia de potencia total:** 60 dB
 * **Ancho de banda (NOMINAL):** 20 kHz
 * **Alimentación:** Fuente partida simétrica (+Vcc = 16V; -Vcc = 16V)
 * **Tecnología de montaje:** Componentes de inserción sobre placa de circuito impreso de capa simple.
@@ -20,7 +20,7 @@ El sistema consiste en un amplificador integrado de dos etapas: una etapa preamp
 ## Estructura del Repositorio
 
 ```text
-├── kicad/               # Archivos de proyecto, esquemáticos y diseño de PCB (.kicad_pro, .kicad_sch, .kicad_pcb)
-├── simulaciones/        # Modelos de simulación circuital y análisis en frecuencia/transitorio (.asc, .pdsprj)
-├── Varios/                # Informe técnico, memorias de cálculo y hojas de datos de componentes
-└── .gitignore           # Exclusión de archivos temporales y respaldos automáticos de software
+├── KiCad/          # Archivos de proyecto, esquemáticos y diseño de PCB (.kicad_pro, .kicad_sch, .kicad_pcb)
+├── Proteus/        # Modelos de simulación circuital y análisis en frecuencia/transitorio (.asc, .pdsprj)
+├── Varios/         # Informe técnico, memorias de cálculo y hojas de datos de componentes
+└── .gitignore      # Exclusión de archivos temporales y respaldos automáticos de software
