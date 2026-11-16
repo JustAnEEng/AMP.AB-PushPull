@@ -16,6 +16,12 @@ fp-info-cache
 *.pro~
 _autosave*
 
+# Archivos Lock y Autosave (KiCad / Linux)
+*.lck
+~*.lck
+#*#
+*auto_saved_files_*
+
 # =========================
 # Proteus
 # =========================
