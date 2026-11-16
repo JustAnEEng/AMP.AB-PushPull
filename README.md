@@ -2,7 +2,7 @@
 
 Proyecto de diseño, simulación, implementación de circuito impreso (PCB) y caracterización experimental de un amplificador de audio de potencia con topología Clase AB push-pull y su fuente de alimentacion, desarrollado en el marco de la cátedra **Electrónica I** de la **Universidad Nacional del Nordeste (UNNE)**.
 
-## Integrantes (Grupo 22)
+## Integrantes:
 
 * **Guerrero, Agustín Exequiel**
 * **Rolón, Juan Daniel**
