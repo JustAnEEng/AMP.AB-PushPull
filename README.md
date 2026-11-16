@@ -11,11 +11,12 @@ Proyecto de diseño, simulación, implementación de circuito impreso (PCB) y ca
 
 El sistema consiste en un amplificador integrado de dos etapas: una etapa preamplificadora basada en un amplificador operacional **NE5532** (en configuracion no inversora) seguida de una etapa de salida complementaria en configuración **Clase AB push-pull** con red de compensación de estabilidad de Zobel. El sistema de alimentacion del amplificador esta dado por una fuente de punto medio basada en el circuito doblador de tension de onda completa y regulada por diodos zener, se hace uso de transistores de paso.
 
-* **Potencia de salida nominal:** 2.5 W
+* **Potencia de salida nominal:** 6,5 W
 * **Ganancia de potencia total:** 60 dB
 * **Ancho de banda (NOMINAL):** 20 kHz
 * **Alimentación:** Fuente partida simétrica (+Vcc = 16V; -Vcc = 16V)
 * **Tecnología de montaje:** Componentes de inserción sobre placa de circuito impreso de capa simple.
+* **Rendimiento:** 50%
 
 ## Estructura del Repositorio
 
