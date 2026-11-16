@@ -22,5 +22,5 @@ El sistema consiste en un amplificador integrado de dos etapas: una etapa preamp
 ```text
 ├── kicad/               # Archivos de proyecto, esquemáticos y diseño de PCB (.kicad_pro, .kicad_sch, .kicad_pcb)
 ├── simulaciones/        # Modelos de simulación circuital y análisis en frecuencia/transitorio (.asc, .pdsprj)
-├── docs/                # Informe técnico, memorias de cálculo y hojas de datos de componentes
+├── Varios/                # Informe técnico, memorias de cálculo y hojas de datos de componentes
 └── .gitignore           # Exclusión de archivos temporales y respaldos automáticos de software
