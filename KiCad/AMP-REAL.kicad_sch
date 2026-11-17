@@ -5,6 +5,260 @@
 	(uuid "f962915e-14a4-4017-affb-f1ab31fb75b1")
 	(paper "A4")
 	(lib_symbols
+		(symbol "Amplifier_Operational:NE5532"
+			(pin_names
+				(offset 0.127)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "NE5532"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne5532.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "dual opamp"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "NE5532_1_1"
+				(polyline
+					(pts
+						(xy -5.08 5.08) (xy 5.08 0) (xy -5.08 -5.08) (xy -5.08 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -7.62 2.54 0)
+					(length 2.54)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 -2.54 0)
+					(length 2.54)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "NE5532_2_1"
+				(polyline
+					(pts
+						(xy -5.08 5.08) (xy 5.08 0) (xy -5.08 -5.08) (xy -5.08 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -7.62 2.54 0)
+					(length 2.54)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 -2.54 0)
+					(length 2.54)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "NE5532_3_1"
+				(pin power_in line
+					(at -2.54 7.62 270)
+					(length 3.81)
+					(name "V+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -2.54 -7.62 90)
+					(length 3.81)
+					(name "V-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector:Screw_Terminal_01x02"
 			(pin_names
 				(offset 1.016)
@@ -1529,212 +1783,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Simulation_SPICE:OPAMP"
-			(pin_names
-				(offset 0.254)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at 3.81 3.175 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "${SIM.PARAMS}"
-				(at 3.81 -3.175 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#sec__SUBCKT_Subcircuits"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Operational amplifier, single"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Sim.Pins" "1=in+ 2=in- 3=vcc 4=vee 5=out"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Sim.Device" "SUBCKT"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Sim.Library" "${KICAD9_SYMBOL_DIR}/Simulation_SPICE.sp"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Sim.Name" "kicad_builtin_opamp"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "simulation"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "OPAMP_0_1"
-				(polyline
-					(pts
-						(xy 5.08 0) (xy -5.08 5.08) (xy -5.08 -5.08) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-			)
-			(symbol "OPAMP_1_1"
-				(pin input line
-					(at -7.62 2.54 0)
-					(length 2.54)
-					(name "+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -7.62 -2.54 0)
-					(length 2.54)
-					(name "-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -2.54 7.62 270)
-					(length 3.81)
-					(name "V+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -2.54 -7.62 90)
-					(length 3.81)
-					(name "V-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 7.62 0 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Transistor_BJT:TIP41"
 			(pin_names
 				(offset 0)
@@ -2254,12 +2302,6 @@
 		(uuid "02636aab-b798-4045-865c-7c186ebd50b0")
 	)
 	(junction
-		(at 134.62 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0453d902-d537-4e3d-8745-19d81e89f08f")
-	)
-	(junction
 		(at 95.25 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2350,6 +2392,12 @@
 		(uuid "6d6ba737-0553-4aa7-a26f-f07287890e03")
 	)
 	(junction
+		(at 134.62 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "72993566-73fd-40e5-aa40-a49eac964718")
+	)
+	(junction
 		(at 119.38 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2372,12 +2420,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a91f5b9a-a875-439e-88f4-464f2de8cac9")
-	)
-	(junction
-		(at 134.62 115.57)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ab900920-92bb-4b5b-88d6-e52d381d6163")
 	)
 	(junction
 		(at 95.25 83.82)
@@ -2444,6 +2486,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "df338250-22bd-4e22-b200-1ce7ac1cbb0f")
+	)
+	(junction
+		(at 134.62 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e2a00b82-8795-497b-92e0-ad703020e40e")
 	)
 	(junction
 		(at 148.59 115.57)
@@ -2615,16 +2663,6 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 115.57) (xy 138.43 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1418cc44-f859-4166-93b7-b37a2ad3f7fd")
-	)
-	(wire
-		(pts
 			(xy 146.05 83.82) (xy 148.59 83.82)
 		)
 		(stroke
@@ -2722,6 +2760,16 @@
 			(type default)
 		)
 		(uuid "27bf50be-d8b4-46c5-bab2-18823c4f8244")
+	)
+	(wire
+		(pts
+			(xy 134.62 115.57) (xy 138.43 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29fc54bf-4830-4671-ab01-b0b9427446f7")
 	)
 	(wire
 		(pts
@@ -2862,6 +2910,16 @@
 			(type default)
 		)
 		(uuid "4367bde5-e37a-43d3-9617-a00c3041c062")
+	)
+	(wire
+		(pts
+			(xy 134.62 52.07) (xy 138.43 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4372f18d-26d4-4823-a6e0-a6761bc10dd1")
 	)
 	(wire
 		(pts
@@ -3015,16 +3073,6 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 52.07) (xy 134.62 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5e1e4e17-8cbd-44cc-aa50-6bdc1dda5d58")
-	)
-	(wire
-		(pts
 			(xy 148.59 72.39) (xy 148.59 74.93)
 		)
 		(stroke
@@ -3122,6 +3170,16 @@
 			(type default)
 		)
 		(uuid "6d1727a7-a8af-40da-b8a6-b2d157b94a43")
+	)
+	(wire
+		(pts
+			(xy 265.43 33.02) (xy 280.67 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70ce890d-d3e4-4918-a7cb-b587ff66392b")
 	)
 	(wire
 		(pts
@@ -3315,16 +3373,6 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 115.57) (xy 134.62 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9e780ff7-b6f1-4f27-a0bf-3a12a84be3d1")
-	)
-	(wire
-		(pts
 			(xy 114.3 72.39) (xy 124.46 72.39)
 		)
 		(stroke
@@ -3495,6 +3543,16 @@
 	)
 	(wire
 		(pts
+			(xy 134.62 52.07) (xy 134.62 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c151c960-02ba-4bb2-81e3-2087ee54e196")
+	)
+	(wire
+		(pts
 			(xy 50.8 83.82) (xy 50.8 85.09)
 		)
 		(stroke
@@ -3502,6 +3560,16 @@
 			(type default)
 		)
 		(uuid "c1892bb9-33d4-4fe8-8493-e2d6dad15928")
+	)
+	(wire
+		(pts
+			(xy 265.43 29.21) (xy 265.43 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2e4bf01-fced-4965-9523-58f373dd2567")
 	)
 	(wire
 		(pts
@@ -3522,6 +3590,16 @@
 			(type default)
 		)
 		(uuid "c51306cf-836b-46c9-9fa7-fec16460c17e")
+	)
+	(wire
+		(pts
+			(xy 280.67 33.02) (xy 280.67 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c63572ac-ec13-4a41-8ae3-d16dc55801f1")
 	)
 	(wire
 		(pts
@@ -3635,7 +3713,17 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 52.07) (xy 138.43 52.07)
+			(xy 134.62 85.09) (xy 134.62 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8e0e2f1-1d5d-46f7-bdbd-2766c714662e")
+	)
+	(wire
+		(pts
+			(xy 106.68 52.07) (xy 134.62 52.07)
 		)
 		(stroke
 			(width 0)
@@ -3772,16 +3860,6 @@
 			(type default)
 		)
 		(uuid "faf09d22-f5ab-44c8-9ce3-5b0334f4f515")
-	)
-	(wire
-		(pts
-			(xy 106.68 52.07) (xy 134.62 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fbb9f6be-ff08-40d6-b663-baad86cf056b")
 	)
 	(wire
 		(pts
@@ -4006,120 +4084,6 @@
 			(project "AMP-REAL"
 				(path "/f962915e-14a4-4017-affb-f1ab31fb75b1"
 					(reference "R13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Simulation_SPICE:OPAMP")
-		(at 137.16 77.47 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "128ea23c-8395-45c4-9994-168c2f1214b0")
-		(property "Reference" "U1"
-			(at 144.78 72.3198 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "${SIM.PARAMS}"
-			(at 144.78 74.2249 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket_LongPads"
-			(at 137.16 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#sec__SUBCKT_Subcircuits"
-			(at 137.16 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Operational amplifier, single"
-			(at 137.16 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=in+ 2=in- 3=vcc 4=vee 5=out"
-			(at 137.16 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 137.16 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Sim.Library" "${KICAD9_SYMBOL_DIR}/Simulation_SPICE.sp"
-			(at 137.16 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "kicad_builtin_opamp"
-			(at 137.16 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c34bbd93-19f4-4234-8cd1-f3bcf32ae3b0")
-		)
-		(pin "1"
-			(uuid "2a61b15f-a682-4454-a9f8-87dcc67b8138")
-		)
-		(pin "3"
-			(uuid "08b703bc-9191-458f-ab7f-e415f43c73f5")
-		)
-		(pin "4"
-			(uuid "5423071e-ca9f-4fbf-817d-9c4d924611dd")
-		)
-		(pin "5"
-			(uuid "e57136d5-c53a-46ca-aec1-c92b711c8b38")
-		)
-		(instances
-			(project ""
-				(path "/f962915e-14a4-4017-affb-f1ab31fb75b1"
-					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -4657,6 +4621,92 @@
 		)
 	)
 	(symbol
+		(lib_id "Amplifier_Operational:NE5532")
+		(at 137.16 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "301839bb-7f71-4a83-8548-b9f34ca543ed")
+		(property "Reference" "U1"
+			(at 137.16 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NE5532"
+			(at 137.16 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket_LongPads"
+			(at 137.16 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne5532.pdf"
+			(at 137.16 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8"
+			(at 137.16 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "34ef14f8-9192-4020-99a5-ced93eeac509")
+		)
+		(pin "2"
+			(uuid "003ff594-d96c-4e5c-8873-1358288c16ba")
+		)
+		(pin "4"
+			(uuid "6757df26-1cd7-4081-b854-9bdb5193e8c8")
+		)
+		(pin "8"
+			(uuid "c168c104-230a-4575-9454-a2deaeda8c2a")
+		)
+		(pin "7"
+			(uuid "67b83493-1ee3-4a21-bd55-a7e24afb60ac")
+		)
+		(pin "1"
+			(uuid "784c37ad-d024-43a3-a6c1-1dae927eba3c")
+		)
+		(pin "5"
+			(uuid "bc9989c2-96a0-4f4b-90e8-09b769a0f217")
+		)
+		(pin "6"
+			(uuid "c2061fcc-1455-4f49-98b2-5697f5e6f273")
+		)
+		(instances
+			(project ""
+				(path "/f962915e-14a4-4017-affb-f1ab31fb75b1"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Transistor_BJT:TIP41")
 		(at 154.94 62.23 0)
 		(unit 1)
@@ -5170,6 +5220,96 @@
 				(path "/f962915e-14a4-4017-affb-f1ab31fb75b1"
 					(reference "D1")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Amplifier_Operational:NE5532")
+		(at 137.16 77.47 0)
+		(unit 3)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "42a42fee-c7e5-42b1-8291-f435a1dcf559")
+		(property "Reference" "U1"
+			(at 135.89 77.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "NE5532"
+			(at 135.89 78.7399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket_LongPads"
+			(at 137.16 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne5532.pdf"
+			(at 137.16 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8"
+			(at 137.16 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "8d6bece3-07e6-4c5e-8452-a3046120cec4")
+		)
+		(pin "8"
+			(uuid "f53b588e-ed7e-4c99-8d03-bd73431321e7")
+		)
+		(pin "7"
+			(uuid "8144eaeb-f4e8-4ce4-bf90-49160f34610f")
+		)
+		(pin "6"
+			(uuid "086aa20b-5ee2-4660-a38f-e9020d322119")
+		)
+		(pin "5"
+			(uuid "bebe7bf1-10c3-4c35-b67d-7353335b3886")
+		)
+		(pin "1"
+			(uuid "bddffd31-f03b-45d0-8f3f-4bdc117e6abf")
+		)
+		(pin "2"
+			(uuid "8e54ea59-1ada-4358-9552-01b885f804b9")
+		)
+		(pin "3"
+			(uuid "c939243e-f6f4-4d51-b17c-50e8fb1fbab8")
+		)
+		(instances
+			(project ""
+				(path "/f962915e-14a4-4017-affb-f1ab31fb75b1"
+					(reference "U1")
+					(unit 3)
 				)
 			)
 		)
@@ -5756,6 +5896,73 @@
 			(project "AMP-REAL"
 				(path "/f962915e-14a4-4017-affb-f1ab31fb75b1"
 					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 265.43 24.13 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "875fe3cf-2cff-474e-8f33-37d1332e1114")
+		(property "Reference" "#PWR03"
+			(at 259.08 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 261.62 24.1299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 265.43 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 265.43 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 265.43 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8cfed605-de5b-4653-9327-ccb58454c5fd")
+		)
+		(instances
+			(project ""
+				(path "/f962915e-14a4-4017-affb-f1ab31fb75b1"
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -7328,6 +7535,91 @@
 				(path "/f962915e-14a4-4017-affb-f1ab31fb75b1"
 					(reference "D7")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Amplifier_Operational:NE5532")
+		(at 273.05 26.67 0)
+		(unit 2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fb1f663d-f51c-4420-b555-7fb23354a7da")
+		(property "Reference" "U1"
+			(at 273.05 16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NE5532"
+			(at 273.05 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket_LongPads"
+			(at 273.05 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne5532.pdf"
+			(at 273.05 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8"
+			(at 273.05 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "80a8357f-b93c-4bdd-9211-1d41c124e741")
+		)
+		(pin "8"
+			(uuid "7ad23371-5763-49c0-9de4-bec86e944a22")
+		)
+		(pin "4"
+			(uuid "6b461630-aa64-4a46-ab18-e40e4c973411")
+		)
+		(pin "2"
+			(uuid "e8f750e9-b6f0-4544-8647-09d249ed18ea")
+		)
+		(pin "5"
+			(uuid "33e0858c-511c-4af0-a2e3-5c2922a05530")
+		)
+		(pin "6"
+			(uuid "d08792ef-aae8-43be-bd38-b94e7df63a19")
+		)
+		(pin "7"
+			(uuid "9448c390-e5b8-4624-a352-1dfabf12fd16")
+		)
+		(pin "3"
+			(uuid "c542dcac-398e-4722-8c07-05695f170a72")
+		)
+		(instances
+			(project ""
+				(path "/f962915e-14a4-4017-affb-f1ab31fb75b1"
+					(reference "U1")
+					(unit 2)
 				)
 			)
 		)
