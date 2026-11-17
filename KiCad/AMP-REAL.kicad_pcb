@@ -24706,14 +24706,6 @@
 		(uuid "087ab85e-7b4e-462c-9cd9-e666a39fc25c")
 	)
 	(segment
-		(start 100.17322 54.849)
-		(end 142 54.849)
-		(width 1.5)
-		(layer "B.Cu")
-		(net 4)
-		(uuid "09388888-b70c-4c0d-a938-ad0d3fc2a585")
-	)
-	(segment
 		(start 236.319267 60.747767)
 		(end 236.318 60.7465)
 		(width 0.2)
@@ -24946,14 +24938,6 @@
 		(uuid "5ee5af85-40a4-40a0-a385-fc48bca03d52")
 	)
 	(segment
-		(start 100 55.02222)
-		(end 100.17322 54.849)
-		(width 1.5)
-		(layer "B.Cu")
-		(net 4)
-		(uuid "5f7567e7-c2e9-4b94-aa76-e35455d4f385")
-	)
-	(segment
 		(start 69.81 71.81)
 		(end 61 80.62)
 		(width 1.5)
@@ -24976,14 +24960,6 @@
 		(layer "B.Cu")
 		(net 4)
 		(uuid "6ac964b9-5919-4292-af67-78c03fd5ec61")
-	)
-	(segment
-		(start 148.801 54.849)
-		(end 142 54.849)
-		(width 1.5)
-		(layer "B.Cu")
-		(net 4)
-		(uuid "6ae1c23f-e8c4-4cbe-a779-3dec6d5af15a")
 	)
 	(segment
 		(start 176 30)
@@ -25114,6 +25090,14 @@
 		(uuid "8c656994-f14c-4e3e-9dcc-aa2898f7ee49")
 	)
 	(segment
+		(start 149.197502 54.452498)
+		(end 100.569722 54.452498)
+		(width 1.5)
+		(layer "B.Cu")
+		(net 4)
+		(uuid "8de903fc-ddbc-459e-a357-37221410e39b")
+	)
+	(segment
 		(start 237 57)
 		(end 237 62.672667)
 		(width 0.2)
@@ -25216,14 +25200,6 @@
 		(layer "B.Cu")
 		(net 4)
 		(uuid "c00c932d-dc69-4542-8733-d6bc90531e5f")
-	)
-	(segment
-		(start 156.65 47)
-		(end 148.801 54.849)
-		(width 1.5)
-		(layer "B.Cu")
-		(net 4)
-		(uuid "c3177adf-4198-4d7e-9430-6d25698beb5b")
 	)
 	(segment
 		(start 197.516706 56.986245)
@@ -25330,12 +25306,12 @@
 		(uuid "e31b21c4-e005-4b0b-bbd2-b1b91f09a52f")
 	)
 	(segment
-		(start 142 54.849)
-		(end 147.769 54.849)
+		(start 156.65 47)
+		(end 149.197502 54.452498)
 		(width 1.5)
 		(layer "B.Cu")
 		(net 4)
-		(uuid "e741c3a5-b9cb-4fcf-8221-5630dd3d312a")
+		(uuid "e52767a8-ffa0-4ff1-89f5-bb6536f18198")
 	)
 	(segment
 		(start 167.915 32.8275)
@@ -25360,6 +25336,14 @@
 		(layer "B.Cu")
 		(net 4)
 		(uuid "eebf7be9-9f61-4fe3-b8ae-1dbb26b18da0")
+	)
+	(segment
+		(start 100.569722 54.452498)
+		(end 100 55.02222)
+		(width 1.5)
+		(layer "B.Cu")
+		(net 4)
+		(uuid "ef8cfdbd-66e9-45b9-82a6-524aa6d72d91")
 	)
 	(segment
 		(start 237 60.747767)
