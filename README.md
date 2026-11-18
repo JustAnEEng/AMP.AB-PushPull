@@ -2,11 +2,6 @@
 
 Proyecto de diseño, simulación, implementación de circuito impreso (PCB) y caracterización experimental de un amplificador de audio de potencia con topología Clase AB push-pull y su fuente de alimentacion, desarrollado en el marco de la cátedra **Electrónica I** de la **Universidad Nacional del Nordeste (UNNE)**.
 
-## Integrantes:
-
-* **Guerrero, Agustín Exequiel**
-* **Rolón, Juan Daniel**
-
 ## Descripción General y Especificaciones Técnicas
 
 El sistema consiste en un amplificador integrado de dos etapas: una etapa preamplificadora basada en un amplificador operacional **NE5532** (en configuracion no inversora) seguida de una etapa de salida complementaria en configuración **Clase AB push-pull** con red de compensación de estabilidad de Zobel. El sistema de alimentacion del amplificador esta dado por una fuente de punto medio basada en el circuito doblador de tension de onda completa y regulada por diodos zener, se hace uso de transistores de paso.
