@@ -1,0 +1,23 @@
+Reference	Qty	Value	Footprint	Descripción
+C1,C2,C3,C4	4	3300u	Capacitor_THT:CP_Radial_D18.0mm_P7.50mm	Polarized capacitor
+C5	1	47u	Capacitor_THT:CP_Radial_D6.3mm_P2.50mm	Polarized capacitor
+C6	1	47p	Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm	Unpolarized capacitor
+C8	1	100n	Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2	Unpolarized capacitor
+D1,D2,D3,D4	4	1N5400	Diode_THT:D_DO-201AD_P15.24mm_Horizontal	100V 3A General Purpose Rectifier Diode, DO-201AD
+D6,D7	2	1N5247B	Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal	Zener diode
+D8,D9,D10	3	1N4001	Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal	50V 1A General Purpose Rectifier Diode, DO-41
+J1,J2,J4	3	Screw_Terminal_01x02	TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal	Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)
+J5	1	Screw_Terminal_01x03	TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal	Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)
+J6	1	AudioJack3	Connector_Audio:Jack_3.5mm_CUI_SJ1-3523N_Horizontal	Audio Jack, 3 Poles (Stereo / TRS)
+Q1,Q5	2	BC337	Package_TO_SOT_THT:TO-92	0.8A Ic, 45V Vce, NPN Transistor, TO-92
+Q2,Q6,Q7	3	TIP41	Package_TO_SOT_THT:TO-220-3_Vertical	6A Ic, 40V Vce, Power NPN Transistor, TO-220
+Q3,Q8	2	BC327	Package_TO_SOT_THT:TO-92	0.8A Ic, 45V Vce, PNP Transistor, TO-92
+Q4	1	TIP42	Package_TO_SOT_THT:TO-220-3_Vertical	-6A Ic, -40V Vce, Power PNP Transistor, TO-220
+R1,R2	2	0.22	Resistor_THT:R_Axial_Power_L25.0mm_W9.0mm_P30.48mm	Resistor
+R3,R7,R8	3	3300	Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal	Resistor
+R4,R5	2	270	Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal	Resistor
+R6	1	15k	Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal	Resistor
+R10	1	10	Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal	Resistor
+R11,R12	2	100k	Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal	Resistor
+R13	1	1k	Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal	Resistor
+U1	1	NE5532	Package_DIP:DIP-8_W7.62mm_Socket_LongPads	Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8
