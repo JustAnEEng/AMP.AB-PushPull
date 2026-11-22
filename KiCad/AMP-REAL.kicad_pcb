@@ -24201,7 +24201,7 @@
 		(layer "Edge.Cuts")
 		(uuid "d5dff015-9f67-48bc-8ddc-07c7b4da9aff")
 	)
-	(gr_text "AMPLIFICADOR CLASE AB PUSH-PULL\n\nB.W = 20 KHz\nP = 7W (RMS)\nRENDIMIENTO = 54%\nVIN = 1V (RMS)\nVCC = +- 16 V\nZL = 8 OHM"
+	(gr_text "AMPLIFICADOR CLASE AB PUSH-PULL\n\nB.W = 20 KHz\nP = 6W (RMS)\nRENDIMIENTO = 50%\nVIN = 1V (RMS)\nVCC = +- 16 V\nZL = 8 OHM"
 		(at 164 103.5 0)
 		(layer "F.Mask")
 		(uuid "917ef232-182e-429f-b89b-ace0226c62c4")
