@@ -174,6 +174,32 @@
 				)
 			)
 		)
+		(property "Sim.Library" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b546fb5f-d043-490d-99dc-aa8c054dcf02")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d800bf24-9a46-4e92-b0d2-228a84055822")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO?92*")
 		(path "/f456b5aa-c963-4bfb-b9fa-35908f0c3a13")
 		(sheetname "/")
@@ -395,6 +421,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "09bf4c82-a81f-400b-ad01-7d04ce1752dc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc73cd98-f6c3-4947-bb12-2ade1621e25f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -628,6 +680,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1ecbc233-bcea-44cc-bddf-61db2a843386")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cdcacb9a-00cc-4c55-9f47-caa2ac4a2e41")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2bcfd9b0-f310-40fb-966e-dde1d7aba1a3")
 			(effects
 				(font
 					(size 1 1)
@@ -901,6 +979,32 @@
 				)
 			)
 		)
+		(property "Sim.Library" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3648cba0-2081-4245-a27f-3dc12b4a0020")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a4f2149a-b9e2-428c-ac93-cc6697ce8734")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7cc6e97b-3651-44ea-a900-d2893398ec72")
 		(sheetname "/")
@@ -1111,6 +1215,32 @@
 				)
 			)
 		)
+		(property "Sim.Library" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b2eebcfe-0fc5-4005-9b74-997c55b0139c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7fa6a0bb-6eb3-4ee2-ab0b-8abbb416a6d0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a8f03b8b-cc74-4889-a055-b44a8561a0ca")
 		(sheetname "/")
@@ -1311,6 +1441,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b0da0920-bc46-47e6-beaa-a11a7817f05c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d4c1e3a-cfda-42fd-b29f-7cd5f27f7382")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1fa25adb-0661-4119-a87b-0ab163707e0f")
 			(effects
 				(font
 					(size 1 1)
@@ -1610,6 +1766,32 @@
 				)
 			)
 		)
+		(property "Sim.Library" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "82c14673-9cf3-4ac2-b000-3bdce57a3695")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "40477c67-77af-4d74-885b-f4323c3d4ebb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "D*DO?201AD*")
 		(path "/7e86f2c5-fb4a-41a5-a1ef-a925d077c635")
 		(sheetname "/")
@@ -1876,6 +2058,32 @@
 				)
 			)
 		)
+		(property "Sim.Library" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cc9beccb-ac4c-4d68-aa0b-35acd079248f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "399ba335-48fa-4ecb-9e7a-d56ac64d4459")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/93472fca-d905-4e6a-aea3-f3722248bbc0")
 		(sheetname "/")
@@ -2107,7 +2315,7 @@
 				)
 			)
 		)
-		(property "Value" "TIP41"
+		(property "Value" "TIP31"
 			(at 2.54 2.2 90)
 			(layer "F.Fab")
 			(uuid "35ada8a9-e5b9-4f5a-8ea7-c368f64cc4ed")
@@ -2137,6 +2345,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "394ae383-8d33-4887-ac9e-d610a4972407")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8b8095d5-d012-4502-aebe-ab6c1d65ad38")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2379,6 +2613,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "de850f12-281f-4a5e-83c7-26ae1e312875")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bb940f60-e530-4a9e-a9e4-d5cc14df0cc8")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5603,6 +5863,32 @@
 				)
 			)
 		)
+		(property "Sim.Library" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "907dc8fa-4e90-4d60-a501-63721e5ce968")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9fbb540e-ebe9-4a0e-a74c-72485d66270a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO?92*")
 		(path "/2a69b489-5132-446c-be0f-c5b5d7e6f76d")
 		(sheetname "/")
@@ -5828,6 +6114,32 @@
 				)
 			)
 		)
+		(property "Sim.Library" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "788c8823-887a-4f85-8bf6-9bf922c6216a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "48e0e508-8e10-42be-ad7f-e661c09d3625")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/bb0fb49b-a534-4fcd-a8b2-8fee59e8fffd")
 		(sheetname "/")
@@ -5994,6 +6306,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e295305f-27db-4fdd-8455-18cd0a786116")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1be0e139-0a25-4597-ac98-f68aabb07dae")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6383,6 +6721,32 @@
 				)
 			)
 		)
+		(property "Sim.Library" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ad17943a-4b35-4aef-a3ed-4fab720afea1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "17b1cbec-ad2a-4a96-be4f-c8aaaa9746f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/e3f32ebc-e735-434f-bb15-873286096841")
 		(sheetname "/")
@@ -6559,6 +6923,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0b5d1ade-702b-47d8-ba70-e8294cc6bfcf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1f1b7d79-6264-45df-b877-e63f9f55e570")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6798,6 +7188,32 @@
 				)
 			)
 		)
+		(property "Sim.Library" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "756268f6-78b7-43aa-8333-db0fbad14933")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "34fa05f9-abbd-4b77-b824-a8e170812104")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "D*DO?41*")
 		(path "/172a70c5-aa7a-415b-9c4e-b3fcba6a7fb2")
 		(sheetname "/")
@@ -7029,7 +7445,7 @@
 				)
 			)
 		)
-		(property "Value" "TIP41"
+		(property "Value" "TIP31"
 			(at 2.54 2.2 0)
 			(layer "F.Fab")
 			(uuid "1fe4acba-bc61-4565-a971-f80b0a88fb2b")
@@ -7060,6 +7476,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bdcd8003-14e7-47f1-8b88-9e6d45667efa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f2edbc73-47b1-41ce-b00c-1e54cb51fba7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7254,6 +7696,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KICAD10_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_AAVID_Extruded_531002B00000G_34.9x12.7mm_H25.4mm.step"
+			(offset
+				(xyz 2.5 3.5 2.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Package_DIP:DIP-8_W7.62mm_Socket_LongPads"
 		(layer "F.Cu")
@@ -7303,6 +7756,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "07ef096e-073e-4706-b337-02a16d3587b0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b4c348ab-3f43-49cc-8cbd-ede73c27ca7f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7634,6 +8113,32 @@
 				)
 			)
 		)
+		(property "Sim.Library" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "206759fe-d184-4314-b39d-03ada05b5458")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4d7d1837-f608-49a6-b7af-e13c5a0688d3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/16618e44-cedd-4b5e-9cfc-7927dddf6ff6")
 		(sheetname "/")
@@ -7844,6 +8349,32 @@
 				)
 			)
 		)
+		(property "Sim.Library" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b16d3b0d-2bfc-483a-93a2-cb2922ecd86b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d12ac63c-793f-4255-9faa-7db21590bb41")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9d1c0818-a4f8-4be1-9ff7-fb5c6b5e5780")
 		(sheetname "/")
@@ -8010,6 +8541,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f663abe1-fb4c-4011-a09b-aefba1677c01")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f3623b79-db5d-4cc9-acd5-04f47acda5a3")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8220,6 +8777,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "51af5a9c-36c6-49ce-8489-0e02750d1744")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b6b1e740-2d65-42ff-befe-0e9cdddfc0ad")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8486,6 +9069,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bc4e83d7-e809-495c-8982-5948d92010ab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1757ccd3-fdb0-4013-bc93-f784915c5b01")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8875,6 +9484,32 @@
 				)
 			)
 		)
+		(property "Sim.Library" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a8c134af-8764-4215-985c-05d19c4b3f3b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9c5accb2-1155-40d9-85e0-dc31eb6be6c7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c3368690-cb68-46bc-8b1a-938fbe18f505")
 		(sheetname "/")
@@ -9052,6 +9687,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7afd6b36-80cb-4d85-9b1c-063b4ad34224")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "92b8ff35-a869-4988-b5d8-6cdaf33ec9f2")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -9467,6 +10128,32 @@
 				)
 			)
 		)
+		(property "Sim.Library" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "01ead9fb-1595-4145-99d3-9a872c398b54")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9a22b7da-60f1-4362-b522-7be852c9bf11")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "D*DO?201AD*")
 		(path "/401217c6-d450-4e09-be51-492a375eb141")
 		(sheetname "/")
@@ -9761,6 +10448,32 @@
 				)
 			)
 		)
+		(property "Sim.Library" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "683e1284-d0f6-48bf-9e8b-95bfb94c1249")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d64ee3a5-4eb3-452a-a72e-e0f343d84529")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO?92*")
 		(path "/a669970a-2041-4469-9f66-3c72aab32e4c")
 		(sheetname "/")
@@ -10014,6 +10727,32 @@
 				)
 			)
 		)
+		(property "Sim.Library" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e856b7ab-57ab-48e7-a747-95b2cb75deac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "342ce3dd-54ac-49d9-b45c-7e71816e8004")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO?92*")
 		(path "/fea86e9d-79d5-4f04-a791-75a0c2446aff")
 		(sheetname "/")
@@ -10237,6 +10976,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "65d1160c-5a7f-4287-9eae-416c49b870ac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a20b1882-56b2-421c-bd18-29cc3da4f730")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -10766,6 +11531,32 @@
 				)
 			)
 		)
+		(property "Sim.Library" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "06fdb302-ee01-439e-9001-b5c3692a7aa9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1cb950fa-275d-4c16-8b15-e71a33be0bbc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/71b52fbb-c335-4891-98a7-6f946a1d8097")
 		(sheetname "/")
@@ -11193,6 +11984,32 @@
 				)
 			)
 		)
+		(property "Sim.Library" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "35ee019d-e448-4649-b910-21e90d5ce578")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c8e89309-8313-4cba-9498-8114d1ab868c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/b313c760-0024-42a8-9587-7f0dbbc2d5c6")
 		(sheetname "/")
@@ -11399,6 +12216,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0afd1f1a-3bb9-47e0-9786-39ca37b75229")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e4009254-95f1-4b13-8033-3d0d0a3f1a70")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12951,6 +13794,32 @@
 				)
 			)
 		)
+		(property "Sim.Library" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6eef8e33-9b0f-4200-8751-798f99b276fa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "977412b0-d427-41ea-a394-0a234584499f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "D*DO?41*")
 		(path "/a6322446-9ad6-4517-a09e-8c5fda92a4c4")
 		(sheetname "/")
@@ -13213,6 +14082,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0e71cdd8-2270-4746-b368-42fc0cf0ad0d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "617942be-3918-44b3-a696-3defdcc6af27")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16409,6 +17304,32 @@
 				)
 			)
 		)
+		(property "Sim.Library" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2722ab71-d412-499d-9728-b566985630c3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9f6ca121-ab95-4378-84e0-2e379de44fd5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/cc459060-c91e-4277-9c11-42ebf30beca5")
 		(sheetname "/")
@@ -16586,6 +17507,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "93446b35-6e0b-4bfd-ab1f-d97742da952f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cf0ab016-d7ca-4dad-be8c-0103bffab8ae")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -19747,7 +20694,7 @@
 				)
 			)
 		)
-		(property "Value" "TIP41"
+		(property "Value" "TIP31"
 			(at 2.54 2.2 90)
 			(layer "F.Fab")
 			(uuid "3f5f505c-72fb-4b68-9e32-4c19f22d443b")
@@ -19778,6 +20725,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e347f9c6-a48c-41fa-bd1f-c22f2ab23416")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f5cfec5b-883f-4f51-97f8-a86e7ce2bf9c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -19969,7 +20942,18 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${KICAD10_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm.step"
+			(offset
+				(xyz -5.5 9.5 0)
+			)
+			(scale
+				(xyz 1.6 1.3 1)
+			)
+			(rotate
+				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -20044,6 +21028,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0d13213e-2496-4bef-a2c6-b5e694f382b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "61219419-d9de-4b58-b3cc-712f1e86ab8b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e69b9794-510b-4010-ac31-ef749fa2d118")
 			(effects
 				(font
 					(size 1 1)
@@ -20317,6 +21327,32 @@
 				)
 			)
 		)
+		(property "Sim.Library" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1b4f2f3a-d55b-4395-b683-ac11e8a4ddf5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "209db071-6d2a-4415-ae7f-301fe2f6dabb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/383f5bac-1023-4011-9f7f-529e84d0d8f3")
 		(sheetname "/")
@@ -20523,6 +21559,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ae78b508-6044-4254-8c73-71cb6045d732")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e0fc51d-18e0-4087-9aca-86e42b60e121")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -23684,7 +24746,7 @@
 				)
 			)
 		)
-		(property "Value" "TIP42"
+		(property "Value" "TIP32"
 			(at 2.54 2.2 0)
 			(layer "F.Fab")
 			(uuid "8bffc7e1-ae7e-4d3c-b8be-f6dd378e0033")
@@ -23715,6 +24777,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ae9bb918-ebf3-4318-b338-4866039f22b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2992afd9-cc6f-43ab-84da-1fb569dfade0")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -23909,6 +24997,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KICAD10_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_AAVID_Extruded_531002B00000G_34.9x12.7mm_H25.4mm.step"
+			(offset
+				(xyz 2.5 3.5 2.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal"
 		(layer "F.Cu")
@@ -23958,6 +25057,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d00a074-6968-40ac-9fac-d9321c6dff65")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f4070676-b487-4b12-84d6-9186d94bbad0")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -24201,7 +25326,7 @@
 		(layer "Edge.Cuts")
 		(uuid "d5dff015-9f67-48bc-8ddc-07c7b4da9aff")
 	)
-	(gr_text "AMPLIFICADOR CLASE AB PUSH-PULL\n\nB.W = 20 KHz		P = 6W (RMS)\nRENDIMIENTO = 50%	VIN = 1V (RMS)\nVCC = +- 16 V		ZL = 8 OHM"
+	(gr_text "AMPLIFICADOR CLASE AB PUSH-PULL\n\nB.W = 25 KHz		P = 6W (RMS)\nRENDIMIENTO = 50%	VIN = 1V (RMS)\nVCC = +- 16 V		ZL = 8 OHM"
 		(at 164.5 103 0)
 		(layer "F.Mask")
 		(uuid "917ef232-182e-429f-b89b-ace0226c62c4")
@@ -24214,7 +25339,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Q1	BC337	Q2	TIP41\nQ3	BC327	Q4	TIP42	\nQ5	BC337	Q6	TIP41\nQ7	TIP41	Q8	BC327"
+	(gr_text "Q1	BC337	Q2	TIP31\nQ3	BC327	Q4	TIP32	\nQ5	BC337	Q6	TIP31\nQ7	TIP31	Q8	BC327"
 		(at 196.25 94 0)
 		(layer "B.SilkS")
 		(uuid "d4ebb2c3-01b4-479d-9c6d-35122704ee88")

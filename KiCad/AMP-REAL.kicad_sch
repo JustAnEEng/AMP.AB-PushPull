@@ -6847,7 +6847,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TIP41"
+		(property "Value" "TIP31"
 			(at 168.91 104.1399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7263,7 +7263,7 @@
 				)
 			)
 		)
-		(property "Value" "TIP42"
+		(property "Value" "TIP32"
 			(at 101.6 119.38 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7578,7 +7578,7 @@
 				)
 			)
 		)
-		(property "Value" "TIP41"
+		(property "Value" "TIP31"
 			(at 101.6 48.26 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8174,7 +8174,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TIP41"
+		(property "Value" "TIP31"
 			(at 168.91 69.8499 0)
 			(show_name no)
 			(do_not_autoplace no)
